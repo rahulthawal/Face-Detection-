@@ -10,9 +10,7 @@ The code for the above tutorial can be downloaded from the following link:
 
 http://cs.fit.edu/~eribeiro/teaching/tutorials/tutorial_classifiers/code.zip (Links to an external site.) 
 
-The discriminative classifier is described in Section 6.4.1 and Section 9.1 of Prince's book. 
-You will need to implement a basic {\em logistic-regression classifier}. 
-You can download an example of a basic logistic-regression classifier from the following link:
+The discriminative classifier is described in Section 6.4.1 and Section 9.1 of Prince's book (Computer vision:models, learning and inference :Simon J.D. Prince). 
 
 
 Discrimative Classifier can be download i.e. main.m
